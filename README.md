@@ -33,16 +33,6 @@ I'm a dedicated and efficient developer with a strong desire to craft beautiful 
 
 ---
 
-## 🌟 Featured Projects
-
-- [NewHub](https://onenewham.vercel.app)  
-  NewHub is a central directory connecting Newham’s VCF organisations with residents, professionals, and services to support the community.
-
-- [The Football Manager App](https://football-task.vercel.app/)  
-  A university final project that lets users manage teams, track stats, and simulate football matches.
-
----
-
 ## 🌐 Connect with Me
 
 - Email: komronbekolimovme@gmail.com
